@@ -13,6 +13,7 @@
         devShells.default = pkgs.mkShell {
           buildInputs = [
             pkgs.python312
+            pkgs.ffmpeg_7-headless
           ];
         };
       }
