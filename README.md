@@ -1,6 +1,8 @@
 # audio-rtmp-example
 
 ## Preface
+I used this python library https://github.com/Eittipat/pyrtmp and modified its example program
+
 RTMP is a backwards protocol. The RTMP server ingests audio/video from a client.
 In my code comments I explain how you would typically handle different kinds of RTMP packets.
 
